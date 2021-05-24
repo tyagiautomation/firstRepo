@@ -3,6 +3,7 @@
   <groupId>FreeCRMAutomation</groupId>
   <artifactId>FreeCRM</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
   <dependencies>
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 		<dependency>
